@@ -1,0 +1,9 @@
+body {
+	width: 380px;
+	padding-top: 40px;
+	padding-bottom: 20px;
+	background-color: #eee;
+}
+.hidden-pwd {
+  color: rgb(221,221,221);
+}
