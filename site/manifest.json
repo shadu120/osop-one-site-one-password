@@ -3,7 +3,7 @@
 
   "name": "One Site One Password",
   "description": "Generate a unique and independent password for each login site",
-  "version": "1.2.2",
+  "version": "1.2.3",
 
   "browser_action": {
     "default_icon" : "images/lock-128.png",
